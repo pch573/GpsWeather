@@ -1,0 +1,2 @@
+include ':app', ':json-simple-1.1.1'
+rootProject.name='My Application'
